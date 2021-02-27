@@ -1,5 +1,3 @@
 # crawler
 
-In this program, I build a Web-crawler that can crawl the Website pages
-
-
+In this program, I build a simple Web-crawler that just crawl the Website pages
